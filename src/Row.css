@@ -22,8 +22,9 @@
 }
 
 .row_poster:hover {
-  transform: scale(1.09);
+  transform: scale(1.08);
   opacity: 1;
+  cursor: pointer;
 }
 
 .row_posterLarge {
